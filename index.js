@@ -55,3 +55,5 @@ io.on("connection", (socket) => {
     console.log("USER DISCONNECTED");
   });
 });
+
+export default app;
